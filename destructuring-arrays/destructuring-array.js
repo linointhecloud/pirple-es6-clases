@@ -54,3 +54,10 @@ console.log(otherAnimals.filter((t) => {
   return t === "snakes";
 }))
 
+// Object destructuring
+const myObj = {firstName: "Chris", lastName: "Jones"};
+// const firstName = myObj.firstName;
+// const lastName = myObj.lastName;
+let { firstName, lastName } = myObj;
+
+console.log(firstName, lastName);
