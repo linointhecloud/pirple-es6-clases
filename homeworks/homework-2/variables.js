@@ -25,7 +25,9 @@ const declarations are block scoped
 
 var phoneNumber = '997379616';
 
-const firstName = "Lino";
+let firstName = 'Lino'
+
+const NUMBER_ID = 10;
 
 
 

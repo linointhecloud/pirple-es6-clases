@@ -3,19 +3,19 @@ This is a javascript file called song with many classic atributes.
 */
 
 // Genre of the song
-var genre = "jazz"
+var genre = "jazz";
 
 // Name of the artist
-var artist = "Jose Perez"
+var artist = "Jose Perez";
 
 // Duration of the song in seconds
-var durationInSeconds = "328"
+var durationInSeconds = "328";
 
 // Is this a Rock and Roll song?
-var isRockAndRoll = false
+var isRockAndRoll = false;
 
 // Name of the album
-var albumName = "The greatest album ever"
+var albumName = "The greatest album ever";
 
 // Object with reference styles of the song
 var referencesStyles = {
