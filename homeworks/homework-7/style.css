@@ -1,0 +1,51 @@
+body {
+  text-align: center
+}
+#rectangleWrapper {
+  padding: 50px 50px 0 50px;
+
+}
+.rectangle {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+#rectangle1 {
+  background-color: #145A32;
+}
+
+#rectangle2 {
+  background-color: #196F3D;
+}
+
+#rectangle3 {
+  background-color: #2ECC71;
+}
+
+#rectangle4 {
+  background-color: #21618C;
+}
+
+#rectangle5 {
+  background-color: #CE07E5;
+}
+
+#rectangle6 {
+  background-color: #1BB18C;
+}
+
+#rectangle7 {
+  background-color: #F20546;
+}
+
+#rectangle8 {
+  background-color: #12DFD6;
+}
+#rectangle9 {
+  background-color: #D68910;
+}
+
+#rectangle10 {
+  background-color: #8E44AD;
+}
