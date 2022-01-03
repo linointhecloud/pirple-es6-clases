@@ -1,7 +1,7 @@
 // Destructuring
 /*
  - "The destructuring assignment syntax is a JavaScript expression
-  that makes it possible to extract data from arrays or objetct into
+  that makes it possible to extract data from arrays or objects into
   distinct variables" - Mozilla Developer Network.
 - Destructuring syntax can be used on left-hand side of assignment
 */
